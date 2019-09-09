@@ -30,6 +30,18 @@ font-family:
     .image:hover{
       opacity: 0.5;
     }
+
+.img3{
+  float: left;
+  margin-left: 120px;
+  width: 200px;
+}
+.img4{
+  float: right;
+  margin-right: 120px;
+  width: 200px;
+
+}
 .img1{
   width:25%;
   float: left;
